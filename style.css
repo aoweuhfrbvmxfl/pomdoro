@@ -88,7 +88,7 @@ button:focus {
 .length-container {
   margin-top: 20px;
   display: flex;
-  color: 16,32,100;
+  color: rgb(255,255,255);
   flex-direction: row;
 }
 
@@ -113,6 +113,7 @@ button:focus {
 
 .timer-length {
   font-size: 2em;
+  color: rgb(255,255,255);
 }
 
 .break-container,
