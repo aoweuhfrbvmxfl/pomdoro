@@ -37,7 +37,7 @@ button:focus {
 
 .clock-container {
   background-color: rgb(16,32,100); 
-  width: 350px;
+  width: 100px;
   border-radius: 20px;
   padding: 30px;
   box-shadow: 10px 10px #020740;
@@ -47,6 +47,7 @@ button:focus {
 
 #time-left {
   font-size: 70px;
+  color: 16,32,100;
   text-align: center;
   background-color: rgb(255,255,255);
   padding: 20px;
@@ -66,6 +67,7 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px;
+  color: 16,32,100;
   background-color: rgb(255,255,255);
   border-radius: 10px;
   height: 40px;
@@ -86,6 +88,7 @@ button:focus {
 .length-container {
   margin-top: 20px;
   display: flex;
+  color: 16,32,100;
   flex-direction: row;
 }
 
