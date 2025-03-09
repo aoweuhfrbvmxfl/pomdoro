@@ -67,7 +67,7 @@ button:focus {
   font-size: 25px;
   text-align: center;
   padding-top: 2px;
-  color: 16,32,100;
+  color: rgb(255,255,255); /*changed NEW*/
   background-color: rgb(255,255,255);
   border-radius: 10px;
   height: 40px;
